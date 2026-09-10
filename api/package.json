@@ -51,7 +51,7 @@
     "meilisearch": "^0.33.0",
     "mongoose": "^7.1.1",
     "nodejs-gpt": "^1.37.4",
-    "nodemailer": "^6.9.4",
+    "nodemailer": "^9.1.1",
     "openai": "^4.11.1",
     "openai-chat-tokens": "^0.2.8",
     "openid-client": "^5.4.2",
